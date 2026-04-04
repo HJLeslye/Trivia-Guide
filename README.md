@@ -60,7 +60,8 @@ To ensure a seamless user experience, the following event matrix was implemented
 ## Contact Details
 
 > **Leslye Hernández Jiménez**
-> *Engineering in Information and Communication Technologies*
+> *IT & Communications Engineering*
 >
-> **LinkedIn**: [View Profile](https://www.linkedin.com/in/leslye-hern%C3%A1ndez-jim%C3%A9nez-5559403a6)
-> **Email**: [hdezj.leslye@gmail.com](mailto:hdezj.leslye@gmail.
+> **LinkedIn**: [View Profile](https://www.linkedin.com/in/leslye-hernandez-jimenez)
+> **Email**: [hdezj.leslye@gmail.com](mailto:hdezj.leslye@gmail.com)
+
